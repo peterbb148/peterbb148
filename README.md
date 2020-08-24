@@ -1,4 +1,12 @@
-### Hi there 👋
+# About me
+
+30+ years of experience within professional software development of IT systems ranging from research, military, pharmaceutical, mobile & line of business in both national and international organizations.
+
+First decade as a developer on pretty much every platform using a wide range of programming languages. Eventually settling on three tier web based systems.
+
+Second decade I gradually moved into the architect role and progressed to Enterprise Architecture & IT-based strategic approaches to business development.
+
+Third and current decade I’m focusing on cloud computing as an enabler of business though innovative use of technology resulting in faster, cheaper and better IT projects. I use bleeding edge technology to disrupt the old ways of doing stuff with new smarter ways!
 
 <!--
 **peterbb148/peterbb148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
