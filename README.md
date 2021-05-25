@@ -10,6 +10,8 @@ Third and current decade I’m focusing on cloud computing as an enabler of busi
 
 Have spent the last almost two years doing solutions in AWS and before that almost 10 years in Azure.
 
+Checkout this cool GitHub profile analysis tool: https://profile-summary-for-github.com/user/peterbb148
+
 <!--
 **peterbb148/peterbb148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
