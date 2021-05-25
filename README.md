@@ -8,6 +8,8 @@ Second decade I gradually moved into the architect role and progressed to Enterp
 
 Third and current decade I’m focusing on cloud computing as an enabler of business though innovative use of technology resulting in faster, cheaper and better IT projects. I use bleeding edge technology to disrupt the old ways of doing stuff with new smarter ways!
 
+Have spent the last almost two years doing solutions in AWS and before that almost 10 years in Azure.
+
 <!--
 **peterbb148/peterbb148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
