@@ -1,6 +1,6 @@
 # About me
 
-30+ years of experience within professional software development of IT systems ranging from research, military, pharmaceutical, mobile & line of business in both national and international organizations.
+35+ years of experience within professional software development of IT systems ranging from research, military, pharmaceutical, mobile & line of business in both national and international organizations.
 
 First decade as a developer on pretty much every platform using a wide range of programming languages. Eventually settling on three tier web based systems.
 
