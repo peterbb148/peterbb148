@@ -1,6 +1,6 @@
 # About me
 
-35+ years of experience within professional software development of IT systems ranging from research, military, pharmaceutical, mobile & line of business in both national and international organizations.
+32 years of experience in professional software development of IT systems ranging from research, military, pharmaceutical, mobile & line of business in both national and international organizations deployed nationally, internationally, globally onpremises and in the cloud.
 
 First decade as a developer on pretty much every platform using a wide range of programming languages. Eventually settling on three tier web based systems.
 
@@ -8,7 +8,7 @@ Second decade I gradually moved into the architect role and progressed to Enterp
 
 Third and current decade I’m focusing on cloud computing as an enabler of business though innovative use of technology resulting in faster, cheaper and better IT projects. I use bleeding edge technology to disrupt the old ways of doing stuff with new smarter ways!
 
-Have spent the last almost two years doing solutions in AWS and before that almost 10 years in Azure.
+Have spent the last almost three years doing solutions in AWS and before that almost 10 years in Azure.
 
 Checkout this cool GitHub profile analysis tool: https://profile-summary-for-github.com/user/peterbb148
 
