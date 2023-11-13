@@ -1,6 +1,6 @@
 # About me
 
-Almost 35 years of experience in professional software development of IT systems ranging from research, military, pharmaceutical, mobile & line of business in both national and international organizations deployed nationally, internationally ad globally both on premises and in the cloud.
+30+ years of experience within professional software development of IT systems ranging from research, military, pharmaceutical, mobile & line of business in both national and international organizations.
 
 First decade as a developer on pretty much every platform using a wide range of programming languages. Eventually settling on three tier web based systems.
 
@@ -8,7 +8,11 @@ Second decade I gradually moved into the architect role and progressed to Enterp
 
 Third and current decade I’m focusing on cloud computing as an enabler of business though innovative use of technology resulting in faster, cheaper and better IT projects. I use bleeding edge technology to disrupt the old ways of doing stuff with new smarter ways!
 
-Have spent the last almost three years doing solutions in AWS and before that almost 10 years in Azure.
+Currently I'm managing the hybrid/remote software engineering team at Carlsberg with about 75 engineers (developers, architects, devops, dataops, qa & support) in Portugal, Malaysia and Philippines.
+
+I set the direction for architecture, software development and processes to ensure continuous improvement across usage of technology in all aspects within the growth products area.
+
+I also spend a lot of time thinking about AI and we can use it to solve problems faster.
 
 Checkout this cool GitHub profile analysis tool: https://profile-summary-for-github.com/user/peterbb148
 
