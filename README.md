@@ -14,6 +14,8 @@ I started my 50s (2020-2029) by walking in the door at Carlsberg to help with so
 
 I set the direction for architecture, software development and processes to ensure continuous improvement across usage of technology in all aspects within the growth products area.
 
+We centralized software development on GitHub and GitHub wrote a [nice customer story about it](https://github.com/customer-stories/carlsberg-group).
+
 I also spend a lot of time thinking about AI and we can use it to solve problems faster.
 
 <!--
