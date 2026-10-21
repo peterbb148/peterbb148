@@ -1,34 +1,42 @@
-# About me
+# Hi, I’m Peter Birkholm-Buch
 
-I was born in 1970 and got a [Commodore 64](https://da.wikipedia.org/wiki/Commodore_64) when I was 14 years old and have been fascinated by computers and software engineering ever since.
+I build engineering organisations and software platforms that help people solve complex problems. I’m currently Senior Director of Scientific Computing at Carlsberg Research Laboratory, bringing software engineering, architecture and AI into scientific research.
 
-In my teens (1980-1989) I coded some demos for C64 but when my mom, who was a real estate agent, bought an IBM Personal PC for her work I started using the PC for school and went on to starting a consulting business when I was 18 years old doing databases in [DSI-SYSTEM](https://computerklubben.dk/dansk-system-industri-dsi/) for real estate agents, so I have 35+ years of professional software engineering at the time of writing :slight_smile: 
+## From a Commodore 64 to scientific computing
 
-In my 20s (from 1990-1999) while studying for a Master of Science in Software Engineering I worked as a developer on a range of different software projects. I continued working for a company that did systems for [real estate agents](https://www.cb.dk/) and coded what is basically an email server in Turbo Pascal. Then I went on to work on some military stuff at [DDCI](https://www.ddci.com/) which technically was some of the hardest and most interesting stuff I’ve worked on to this date - I learnt about optimizing code for embedded bare board systems on missiles :rocket:. Towards the end of my studies I ended up working the [Danish Institute for Fisheries Research](https://www.aqua.dtu.dk/) (DIFRES) where I did a lot of mathematical modelling and implemented some systems to [calculate the amount of bacteria in fish](https://www.sciencedirect.com/science/article/abs/pii/S0168160501006705) based on storage temperature over time. I wound up with a real job at DIFRES and became their first lead developer. I loved the research and the “smell” of laboratories and I still feel the same way when I visit the Carlsberg Research Laboratory. After DIFRES I moved on to [NNIT](https://www.nnit.com/) where I worked as a consultant developer in the beginning.
+I got a Commodore 64 when I was 14 and have been fascinated by computers ever since. I started with demos, borrowed time on my mother’s IBM PC, and at 18 started a consulting business building database systems for real estate agents.
 
-In my 30s (2000-2009) while working as a lead developer in NNIT the role of “architect” became more common and I quickly grew into the role and took responsibility for larger and larger projects spread across national and international companies in both public and private sectors many of them in regulated industries like pharma. As an architect I moved from software architecture to solution architecture to enterprise architecture (but I never stopped coding as I still believe that architects who code are superior to powerpoint architects). I participated in Executive Briefings, Product Advisory Meetings, Internal Product Team Meetings and more with Microsoft and still have contact with some of the products teams through internal networks in Microsoft. I left NNIT to become CTO in Traen (now [Formpipe](https://www.formpipe.com/da/)) where I was responsible for bridging the gap between technology, customer requirements and strategy. I spent almost 6 years working and learning how to manage “real” software products, budgets and people at scale. I managed our relationship with Microsoft and grew from nothing to a Gold Partner. In 2012 Traen was acquired by Formpipe and I left the company to pursue a completely unplanned career as a freelance consultant.
+Over 36 years later, I’m still coding—and still interested in how things work.
 
-In my 40s (2010-2019) I worked as a freelance consultant for a wide range of large companies (Statoil Fuel & Retail - now [CircleK](https://www.circlek.com/), [Bluegarden](https://www.bluegarden.dk/) - now Visma and [DSV](https://www.dsv.com/) and a few others) where the common denominator for all my work was how to enable faster and better business through innovative use of technology resulting in faster, cheaper and better IT projects. Cloud Computing became a pervasive driver in this and still is if used the right way - just doing lift and shift doesn’t provide you with any real benefits. At Bluegarden I worked with Microsoft with Azure API Gateway in early access where we bolted it in front of a mainframe and enabled API access to payroll services. [Microsoft wrote a nice casestory about it](http://birkholm-buch.dk/wp-content/uploads/2019/03/bluegarden_case_study.pdf). At DSV we used bleeding edge technology to disrupt the old ways of doing stuff with new smarter ways and we managed to out perform existing vendors of route management systems by merging Cloud PaaS with deep knowledge of business processes in the [DSV ETA Calculator](https://www.dsv.com/da-dk/hvorfor-dsv/connectivity/dsv-eta). I also built the first [public API Gateway](https://developer.dsv.com/) in DSV so that partners can create shipments from their own systems. 
+Along the way, I’ve built an email server in Turbo Pascal, worked on embedded systems at DDCI, and developed mathematical models and software at the Danish Institute for Fisheries Research. That early experience of working alongside researchers stayed with me. I liked the research and the smell of the laboratories. I still do.
 
-I started my 50s (2020-2029) by walking in the door at Carlsberg to help with software architecture on the then just started CS+ project. The project and scope grew at a massive rate and we were hit by Covid just 3 months after I started. Over the next years I gradually assumed more and more responsibility and today I'm managing the hybrid/remote software engineering team in Digital Growth Products with about 75 engineers (developers, architects, devops, dataops, qa & support) in Portugal, England, Spain and Poland.
+At NNIT, I grew from developer into software, solution and enterprise architecture, working across public and private organisations, including regulated industries. As CTO at Traen, later acquired by Formpipe, I learned to connect technology and customer needs with product strategy, budgets and people.
 
-I set the direction for architecture, software development and processes to ensure continuous improvement across usage of technology in all aspects within the growth products area.
+As an independent consultant, I helped companies including Bluegarden and DSV use cloud platforms and APIs to improve how their businesses worked.
 
-We centralized software development on GitHub and GitHub wrote a [nice customer story about it](https://github.com/customer-stories/carlsberg-group) and I also wrote a [post with some more details](https://birkholm-buch.dk/2024/04/16/carlsberg-unifies-development-on-github-enterprise-and-accelerates-innovation-with-copilot/) about the story behind the movie.
+At Carlsberg, my work grew from architecture into building and leading a distributed engineering organisation across several countries. It brought together architecture, platform engineering, developer experience, engineering practice and people development. Our move towards a shared development platform is documented in [GitHub’s Carlsberg customer story](https://github.com/customer-stories/carlsberg-group).
 
-I also spend a lot of time thinking about AI and we can use it to solve software engineering problems faster.
+Today, at Carlsberg Research Laboratory, I’m applying that experience to scientific computing: helping researchers use software, data and AI effectively, with engineering practices that make their work reproducible, maintainable and easier to build on.
 
-<!--
-**peterbb148/peterbb148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## How I approach engineering
 
-Here are some ideas to get you started:
+I’ve moved between development, architecture, consulting and leadership, but the questions have stayed fairly consistent:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Does the technology solve a problem that matters?
+- Have we made it easier for people to do good work?
+- Can others understand, operate and improve what we build?
+- Are we developing people’s judgment as well as their technical skills?
+
+I still believe architects should code. Working close to implementation keeps architectural decisions honest.
+
+I care about clear expectations, shared learning and taking responsibility for quality. Platforms should remove repetitive work and make good engineering practices easier to follow. Governance should make responsibilities and decisions clear enough for people to act with confidence.
+
+AI brings new possibilities, and I’m spending much of my time exploring how to turn those possibilities into useful engineering and scientific capabilities.
+
+## Things I write about
+
+My blog, [Stuff about Software Engineering](https://birkholm-buch.dk), is where I work through these ideas:
+
+- **Leadership and engineering culture:** [Expected behaviours](https://birkholm-buch.dk/2024/10/15/a-manifesto-on-expected-behaviors/) and [how seniority connects to influence and participation](https://birkholm-buch.dk/2024/10/15/seniority-organizational-influence-and-participation/).
+- **Architecture and developer experience:** [Building a better software practice](https://birkholm-buch.dk/2024/08/26/building-a-better-software-practice-a-guide-to-policies-rules-standards-processes-and-guidelines/) and [the Gaia platform built by our team](https://birkholm-buch.dk/2024/11/08/gaia-how-we-built-a-platform-to-transform-infrastructure-creation/).
+- **AI and scientific computing:** [Software Is Eating Science](https://birkholm-buch.dk/2025/06/12/software-is-eating-science-and-thats-a-good-thing/) and [Agent Orchestration Is a Capability, Not a Platform](https://birkholm-buch.dk/2026/09/16/agent-orchestration-is-a-capability-not-a-platform/).
